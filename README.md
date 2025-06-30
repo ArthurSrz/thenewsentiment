@@ -1,4 +1,4 @@
-# Analyseur de sentiment multi-sujets pour avis clients
+# Analyse de sentiments multi-sujets pour avis clients
 
 ## Description
 
