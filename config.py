@@ -35,8 +35,8 @@ class SentimentAnalyzerConfig:
 @dataclass
 class ProcessingConfig:
     """Configuration for the main processing pipeline."""
-    input_data_path: str = "fake_reviews_dataset.xlsx"
-    output_data_path: str = "analyzed_reviews_results.xlsx"
+    input_data_path: str = "french_book_reviews_sample.xlsx"
+    output_data_path: str = "french_book_reviews_analysis.xlsx"
     review_column: str = "text"
     enable_progress_bar: bool = True
     save_intermediate_results: bool = True
