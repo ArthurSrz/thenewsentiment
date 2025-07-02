@@ -22,6 +22,8 @@ Ce projet implémente un pipeline complet d'analyse de sentiment multi-sujets po
 ### Prérequis
 - Python 3.8+
 - pip
+- un modèle d'embedding disponible en local avec `ollama pull [nomdumodele]`
+  
 
 ### Installation des dépendances
 
